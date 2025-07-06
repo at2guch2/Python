@@ -9,7 +9,6 @@ for i in tqdm(range(300), unit="it",ncols=100, colour='green'):
     time.sleep(0.01)
 #logger.info("All executions done...")
 
-# Test
 
 # Progress bar 1: Default settings
 for i in tqdm(range(300), colour='blue',ncols=100):
